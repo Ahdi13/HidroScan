@@ -1,2 +1,0 @@
-# HidroScan
-Mobile
